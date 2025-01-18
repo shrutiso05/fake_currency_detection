@@ -14,7 +14,7 @@ This currency authentication system has been designed completely using Python la
 5. Jupyter Notebook
 
 ## Dataset
-This currency detection currently works only for Indian Currency notes of denomination 500 and 2000. The dataset used for this purpose is included in this repository and has been custom- built by collecting necessary images from various sources. To know more about dataset refer to the report of this project present in this repository. 
+This currency detection currently works only for Indian Currency notes of denomination 500 and 2000. The dataset used for this purpose is included in this repository and has been custom- built by collecting necessary images from various sources. To know more about dataset refer to the report of this project present in this repository.This dataset download by Kaggle "khttps://www.kaggle.com/datasets/gauravsahani/indian-currency-notes-classifier"
 
 ## Structure
 1. **Dataset:** Contains all necessary images. This directory also contains images of real 500 and 2000 rupee notes which you can use to test the system. Read the report to know more about structure of dataset.
